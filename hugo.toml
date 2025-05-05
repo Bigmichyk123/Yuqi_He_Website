@@ -1,5 +1,13 @@
-baseURL = 'https://Yuqi-He-5270.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://yuqihe.github.io/Yuqi_He_Website/"  # later, your GitHub Pages URL
+languageCode = "en-us"
+title = "Yuqi He"
 theme = "ananke"
+
+[params]
+  author = "Yuqi He"
+  description = "Hi, nice to meet you. This is Yuqi."
+
+  # Example social links; remove or update as you like
+  github = "Bigmichyk123"
+  linkedin = "https://www.linkedin.com/in/yuqi-he-bigmichyk/"
 
