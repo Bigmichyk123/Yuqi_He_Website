@@ -11,3 +11,43 @@ theme = "ananke"
   github = "Bigmichyk123"
   linkedin = "https://www.linkedin.com/in/yuqi-he-bigmichyk/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    name   = "Home"
+    url    = "/"
+    weight = 1
+
+  [[menu.main]]
+    name   = "Bio"
+    url    = "/bio/"
+    weight = 2
+
+  [[menu.main]]
+    name   = "Gallery"
+    url    = "/gallery/"
+    weight = 4
+
+  [[menu.main]]
+    name   = "Publications"
+    url    = "/publications/"
+    weight = 3
+
+  [[menu.main]]
+    name   = "Resume"
+    url    = "/resume/"
+    weight = 4
+
+
+
+publishDir = "docs"
+
+
+relativeURLs = true
+canonifyURLs = false
+
