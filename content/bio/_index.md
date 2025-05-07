@@ -13,10 +13,10 @@ Hi, this is Yuqi. An aspiring quant and a proud cook and dog-person.
 
 <div style="display:flex; justify-content:center; gap:1rem; margin-top:1rem;">
 
-  {{< figure src="images/gallery/food.jpg" title="Cooking" class="br2" >}}
-  {{< figure src="images/gallery/dog.jpg"  title="Louis the dog" class="br2" >}}
-  {{< figure src="images/gallery/graduation.jpg" title="Graduation" class="br2" >}}
-  {{< figure src="images/gallery/work.jpg" title="At work" class="br2" >}}
+  {{< figure src="images/food.jpg" title="Cooking" class="br2" >}}
+  {{< figure src="images/dog.jpg"  title="Louis the dog" class="br2" >}}
+  {{< figure src="images/graduation.jpg" title="Graduation" class="br2" >}}
+  {{< figure src="images/work.jpg" title="At work" class="br2" >}}
 
 </div>
 
