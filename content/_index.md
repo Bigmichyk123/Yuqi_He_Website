@@ -17,10 +17,6 @@ draft: false
   {{< figure src="images/headshot.jpg" title="Yuqi He" class="br-100 w4 h4 dib" >}}
 </div>
 
-<p style="text-align:center; margin-top:2rem;">
-  {{< figure src="images/headshot.jpg" title="Yuqi He" class="br-100 w3 h3 dib" >}}
-</p>
-
 
 I’m **Yuqi He**, here you’ll find my bio, projects, and photos.
 

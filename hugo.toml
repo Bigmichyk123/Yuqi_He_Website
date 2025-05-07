@@ -30,7 +30,7 @@ theme = "ananke"
 
   [[menu.main]]
     name   = "Gallery"
-    url    = "/gallery/"
+    url    = "/images/gallery/"
     weight = 4
 
   [[menu.main]]

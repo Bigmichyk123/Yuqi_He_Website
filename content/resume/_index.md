@@ -6,4 +6,4 @@ draft: false
 
 You can download my resume here:
 
-[Download Resume](/He.Yuqi.Resume.pdf){:target="_blank" rel="noopener"}
+[Download Resume](He.Yuqi.Resume.pdf){:target="_blank" rel="noopener"}
