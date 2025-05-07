@@ -11,22 +11,22 @@ Hi, this is Yuqi. An aspiring quant and a proud cook and dog-person.
 
 <div style="display:flex; justify-content:center; gap:1rem; margin-top:1rem;">
   <img 
-    src='{{ "food.jpg"}}'
+    src='{{ "image/gallery/food.jpg"}}'
     alt="I love cooking"
     style="border-radius:8px; width:120px; height:120px; object-fit:cover;"
   />
   <img 
-    src='{{ "dog.jpg"}}'
+    src='{{ "image/gallery/dog.jpg"}}'
     alt="my dog Louis"
     style="border-radius:8px; width:120px; height:120px; object-fit:cover;"
   />
   <img 
-    src='{{ "graduation.jpg" }}'
+    src='{{ "image/gallery/graduation.jpg" }}'
     alt="my graduation"
     style="border-radius:8px; width:120px; height:120px; object-fit:cover;"
   />
   <img 
-    src='{{ "work.jpg" }}'
+    src='{{ "image/gallery/work.jpg" }}'
     alt="at work"
     style="border-radius:8px; width:120px; height:120px; object-fit:cover;"
   />
